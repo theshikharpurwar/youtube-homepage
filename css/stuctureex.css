@@ -1,0 +1,20 @@
+p{
+    font-family: montserrat;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.model{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.order{
+    font-weight: 18px;
+    margin-top: 10px;
+}
+
+.touch{
+    text-decoration: underline;
+}
